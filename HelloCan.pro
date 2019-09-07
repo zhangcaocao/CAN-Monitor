@@ -34,14 +34,12 @@ SOURCES += \
         main.cpp \
         mainwindow.cpp \
     framedecode.cpp \
-    databuffer.cpp \
     aboutbox.cpp
 
 
 HEADERS += \
         mainwindow.h \
     framedecode.h \
-    databuffer.h \
     aboutbox.h
 
 
